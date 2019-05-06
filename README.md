@@ -10,6 +10,9 @@ Current Version:
 ![Current Version](https://i.imgur.com/Tk2bCvc.png)
 ![Current Version](https://i.imgur.com/6c6Lx2s.png)
 
+## Deployed App
+[$spin 2 !win](http://spin-2-win.s3-website-us-west-2.amazonaws.com/)
+
 ## Getting Started
 
 These instructions will get a copy of the project up and running on your local machine for usage and testing purposes. 
