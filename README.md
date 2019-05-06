@@ -1,5 +1,8 @@
 # $pin 2 !Win
 
+## Deployed App
+[$pin 2 !win](http://spin-2-win.s3-website-us-west-2.amazonaws.com/)
+
 ## Project Description
 
 $pin 2 !win is a take on the classic gameshow Wheel of Fortune. Players can test their luck by guessing phrases and winning a variety of monetary prizes through four rounds of fun. The player with the most knowledge and highest score moves on to the bonus round where they can win even more prizes. 
@@ -9,9 +12,6 @@ This web application was built using Object Oriented Principles in Javascript. M
 Current Version: 
 ![Current Version](https://i.imgur.com/Tk2bCvc.png)
 ![Current Version](https://i.imgur.com/6c6Lx2s.png)
-
-## Deployed App
-[$spin 2 !win](http://spin-2-win.s3-website-us-west-2.amazonaws.com/)
 
 ## Getting Started
 
